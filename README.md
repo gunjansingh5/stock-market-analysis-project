@@ -1,4 +1,4 @@
-# stock-market-analysis-project
+# STOCK MARKET ANALYSIS
 Stock Market Analysis using MySQL and Tableau
 
 ## Overview
@@ -42,6 +42,12 @@ Created an interactive dashboard including:
 
 ## SQL Analysis Output
 ![SQL](sql_query1.png)
+![SQL](sql_query2.png)
+![SQL](sql_query3.png)
+![SQL](sql_query4.png)
+
+## Tableau Dashboard
+![Dashboard](dashboard%20(2).png)
 
 ## Conclusion
 This project demonstrates how SQL and Tableau can be used together to analyze and visualize stock market data effectively.
